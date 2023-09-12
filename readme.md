@@ -8,7 +8,7 @@ Welcome to Data Structures and Algorithms training, a comprehensive course that 
 
 | Day | Topic | Video Recording |
 | :----: | :---: | :---: |
-| Day 1 | Introduction to DSA |  |
+| Day 1 | Introduction to DSA | [Recording](https://youtu.be/axn6sLIU35Q) |
 | Day 2 | Arrays and Linked Lists |  |
 | Day 3 | Stacks and Queues |  |
 | Day 4 | Hash Maps |  |
@@ -16,4 +16,4 @@ Welcome to Data Structures and Algorithms training, a comprehensive course that 
 | Day 6 | Sorting Algorithms |  |
 ...
 
-### In the future, we hope to create another course focussed at more advanced structures like Trees, Graphs, Heaps and Algorithmic Thinking in programming.
+### In the future, we hope to create another course focused on more advanced structures like Trees, Graphs, Heaps and Algorithmic Thinking in programming.
